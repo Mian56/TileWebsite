@@ -18,8 +18,12 @@ const categories: Category[] = [
     title: "Floors",
     description: "Large-format tile, wood-look tile, leveling and clean edges.",
     items: [
-      { src: "/projects/Room1.png", alt: "Floor tile project 1" },
-      { src: "/projects/Room2.png", alt: "Floor tile project 2" },
+      { src: "/projects/R4.png", alt: "Floor tile project 2" },
+      { src: "/projects/Room3.png", alt: "Floor tile project 1" },
+      { src: "/projects/R5.png", alt: "Floor tile project 3" },
+      { src: "/projects/R6.png", alt: "Floor tile project 4" },
+      { src: "/projects/R7.png", alt: "Floor tile project 5" },
+      { src: "/projects/R8.png", alt: "Floor tile project 6" },
     ],
   },
   {
@@ -27,8 +31,14 @@ const categories: Category[] = [
     title: "Kitchens",
     description: "Backsplashes, floors, and crisp cut lines around outlets & cabinets.",
     items: [
-      { src: "/projects/k1.png", alt: "Kitchen tile project 1" },
-      { src: "/projects/k2.png", alt: "Kitchen tile project 2" },
+      { src: "/projects/K4.png", alt: "Kitchen tile project 4" },
+      { src: "/projects/K5.png", alt: "Kitchen tile project 5" },
+      { src: "/projects/k3.png", alt: "Kitchen tile project 3" },
+      { src: "/projects/K6.png", alt: "Kitchen tile project 6" },
+      { src: "/projects/K7.png", alt: "Kitchen tile project 7" },
+      { src: "/projects/K8.png", alt: "Kitchen tile project 8" },
+      { src: "/projects/K9.png", alt: "Kitchen tile project 9" },
+      { src: "/projects/K10.png", alt: "Kitchen tile project 10" },
     ],
   },
   {
@@ -37,7 +47,17 @@ const categories: Category[] = [
     description: "Showers, waterproofing, niches, and grout that lasts.",
     items: [
       // Add bathroom pics when you get them
+      { src: "/projects/B2.png", alt: "Bathroom tile project 2"},
+      { src: "/projects/B3.png", alt: "Bathroom tile project 3"},
       { src: "/projects/B.png", alt: "Bathroom tile project 1" },
+      { src: "/projects/B4.png", alt: "Bathroom tile project 4"},
+      { src: "/projects/B5.png", alt: "Bathroom tile project 5"},
+      { src: "/projects/B6.png", alt: "Bathroom tile project 6"},
+
+
+
+
+
       // { src: "/projects/bath2.png", alt: "Bathroom tile project 2" },
     ],
   },

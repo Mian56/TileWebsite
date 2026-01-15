@@ -104,18 +104,18 @@ export default function ContactForm() {
 
             <div className="mt-4 space-y-2 text-sm text-white/80">
               <p>
-                <span className="text-white/60">Phone:</span> (555) 123-4567
+                <span className="text-white/60">Phone:</span> (631) 598-9622
               </p>
               <p>
                 <span className="text-white/60">Email:</span> info@acetileco.com
               </p>
               <p>
-                <span className="text-white/60">Area:</span> Your city + nearby
+                <span className="text-white/60">Area:</span> Long Island, New York
               </p>
             </div>
 
             <a
-              href="tel:15551234567"
+              href="tel:16315989622"
               className="mt-6 inline-block w-full rounded-lg bg-white px-4 py-3 text-center text-sm font-medium text-zinc-900"
             >
               Call Now

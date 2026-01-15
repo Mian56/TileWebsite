@@ -12,7 +12,12 @@ const reviews = [
   {
     stars: "★★★★★",
     quote: "On time, professional, and the floor looks amazing.",
-    name: "Amina — NJ",
+    name: "Amina — West Islip",
+  },
+    {
+    stars: "★★★★★",
+    quote: "Did My Bathroom and Kitchen. Both came out great.",
+    name: "Amina — Bayshore",
   },
 ];
 
