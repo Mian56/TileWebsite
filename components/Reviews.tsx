@@ -17,7 +17,17 @@ const reviews = [
     {
     stars: "★★★★★",
     quote: "Did My Bathroom and Kitchen. Both came out great.",
-    name: "Amina — Bayshore",
+    name: "Chole — Bayshore",
+  },
+     {
+    stars: "★★★★★",
+    quote: "Love the tile floor you put in my studio room. It came out beautiful",
+    name: "Amina — Commack",
+  },
+     {
+    stars: "★★★★★",
+    quote: "I added vinyl flooring to my basement, and the experience was great. He was always on time, professional throughout the job, and finished everything within two days. The basement looks amazing.",
+    name: " Jose — West Babylon",
   },
 ];
 
