@@ -1,3 +1,6 @@
+import HeroCarousel from "@/components/HeroCarousel";
+
+
 export default function Hero() {
   return (
     <section className="mx-auto max-w-6xl px-4 py-12 sm:py-16">
@@ -41,10 +44,9 @@ export default function Hero() {
             ))}
           </div>
         </div>
+        
+        <HeroCarousel />
 
-        <div className="aspect-[4/3] overflow-hidden rounded-2xl bg-zinc-100">
-          <div className="h-full w-full bg-gradient-to-br from-zinc-100 to-zinc-200" />
-        </div>
       </div>
     </section>
   );
