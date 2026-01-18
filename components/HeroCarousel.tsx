@@ -8,7 +8,7 @@ type Slide = { src: string; alt: string };
 export default function HeroCarousel() {
   const slides: Slide[] = useMemo(
     () => [
-      { src: "/projects/K1.png", alt: "Tile installation project 1" },
+      // { src: "/projects/k1.png", alt: "Tile installation project 1" },
       { src: "/projects/B8.png", alt: "Tile installation project 2" },
       { src: "/projects/R6.png", alt: "Tile installation project 3" },
       { src: "/projects/K9.png", alt: "Tile installation project 4" },
